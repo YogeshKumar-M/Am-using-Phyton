@@ -71,6 +71,8 @@ plt.plot(t, s)
 
 
 # calculation
+![WhatsApp Image 2025-11-28 at 08 11 26_377f57b0](https://github.com/user-attachments/assets/c102f7fb-cd6d-4912-b380-0ed13fb0961d)
+
 
 ma (Theory) = am/ac =0.5
 ma(Practical) = (Emax-Emin)/(Emax+Emin) =0.5
